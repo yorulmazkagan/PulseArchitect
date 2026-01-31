@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+astrapy
+beeai-framework==0.1.76
+python-dotenv
+pydantic
+watchdog
+aiosmtplib
+slack_sdk

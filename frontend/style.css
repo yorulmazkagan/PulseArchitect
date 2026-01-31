@@ -1,0 +1,44 @@
+body {
+    background-color: #0a0a0b;
+    font-family: 'Rajdhani', sans-serif;
+    color: #e2e2e2;
+    overflow-x: hidden;
+}
+
+.cyber-border {
+    border: 2px solid #ff003c;
+    box-shadow: 0 0 15px rgba(255, 0, 60, 0.4);
+}
+
+.neon-text-green { color: #39ff14; text-shadow: 0 0 10px #39ff14; }
+.neon-text-gold { color: #ffcc00; text-shadow: 0 0 10px #ffcc00; }
+.neon-text-red { color: #ff003c; text-shadow: 0 0 10px #ff003c; }
+
+.glass-card {
+    background: rgba(20, 20, 25, 0.9);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.water-fill {
+    transition: height 1.5s cubic-bezier(0.4, 0, 0.2, 1);
+    background: linear-gradient(180deg, #00f2ff, #0066ff);
+    box-shadow: 0 0 20px #00f2ff;
+}
+
+.gear-low { color: #39ff14; text-shadow: 0 0 10px #39ff14; }
+.gear-high { color: #ff003c; text-shadow: 0 0 10px #ff003c; }
+
+
+.chart-container {
+    position: relative;
+    height: 150px !important;
+    width: 100%;
+}
+
+#chatBox {
+    max-height: 500px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}

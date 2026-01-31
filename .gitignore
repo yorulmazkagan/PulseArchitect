@@ -1,0 +1,20 @@
+# Secrets & Environment Variables
+.env
+
+# Python Virtual Environment
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Project Data (Test dökümanları gitmesin)
+data/processed/
+data/*.pdf
+
+# System Files
+.DS_Store
+Thumbs.db
