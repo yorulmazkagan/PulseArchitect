@@ -1,3 +1,6 @@
+
+![Image](https://github.com/user-attachments/assets/e755fdde-725d-4a8a-9ec4-c55b8164ad87)
+
 # ⚡ PULSE ARCHITECT | Sovereign AI Ecosystem
 ### *Autonomous Risk Management & ESG Optimization Engine*
 
