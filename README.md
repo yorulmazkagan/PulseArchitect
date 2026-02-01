@@ -13,10 +13,8 @@
 
 ---
 
-[Image of a professional real-time analytics dashboard showing complex data visualization and sustainability metrics]
-
 ## 🛡️ Core Philosophy: Why "Sovereign"?
-In a world of bloated AI models, **PulseArchitect** follows a "Resource-First" philosophy [cite: 2025-11-28]. It utilizes **Dynamic Gear Shifting** between **IBM Granite 8B (Power Mode)** and **Granite 2B (Eco Mode)** to ensure that every token processed is optimized for its environmental impact (Water & Energy). 
+In a world of bloated AI models, **PulseArchitect** follows a "Resource-First" philosophy. It utilizes **Dynamic Gear Shifting** between **IBM Granite 8B (Power Mode)** and **Granite 2B (Eco Mode)** to ensure that every token processed is optimized for its environmental impact (Water & Energy). 
 
 ---
 
@@ -35,13 +33,13 @@ In a world of bloated AI models, **PulseArchitect** follows a "Resource-First" p
 * **LLM:** [IBM Granite 3.0 Series](https://www.ibm.com/granite) (8B-Instruct & 2B-Instruct).
 * **Orchestration:** [BeeAI Framework](https://i-am-bee.github.io/beeai-framework/) by IBM.
 * **Database:** [DataStax Astra DB](https://astra.datastax.com/) (Vector Search & NoSQL storage).
-* **Backend:** FastAPI (Python 3.11) [cite: 2025-11-28].
+* **Backend:** FastAPI (Python 3.11).
 * **Infrastructure:** IBM Watsonx.ai & Watsonx.data.
 
 ---
 
 ## ⚠️ A Sincere Disclosure
-As a Computer Engineering student (1st Year, KTÜN), I utilized AI as a co-pilot to accelerate the development of this prototype. While the core logic is operational, **PulseArchitect v0.1.0** is still in beta. 
+As a Computer Engineering student (1st Year), I utilized AI as a co-pilot to accelerate the development of this prototype. While the core logic is operational, **PulseArchitect v0.1.0** is still in beta. 
 * **Beta Status:** You may encounter minor inconsistencies in data sorting or UI synchronization.
 * **Known Bugs:** The "Water Bar" visualization and "Ticket Feed" are under continuous optimization for Astra DB latency.
 

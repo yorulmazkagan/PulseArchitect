@@ -18,3 +18,8 @@ data/*.pdf
 # System Files
 .DS_Store
 Thumbs.db
+
+test_finance_risk.pdf
+test_heavy.pdf
+test_security.pdf
+test.pdf
